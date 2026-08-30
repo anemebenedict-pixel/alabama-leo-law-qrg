@@ -1,0 +1,332 @@
+{
+  "generated_at": null,
+  "source": "Alabama Legislature Code of Alabama",
+  "complete": false,
+  "count": 54,
+  "sections": [
+    {
+      "section": "13A-6-2",
+      "title": "Murder",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-2"
+    },
+    {
+      "section": "13A-5-40",
+      "title": "Capital Offenses",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-5-40"
+    },
+    {
+      "section": "13A-6-3",
+      "title": "Manslaughter",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-3"
+    },
+    {
+      "section": "13A-6-4",
+      "title": "Criminally Negligent Homicide",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-4"
+    },
+    {
+      "section": "13A-6-20",
+      "title": "Assault in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-20"
+    },
+    {
+      "section": "13A-6-21",
+      "title": "Assault in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-21"
+    },
+    {
+      "section": "13A-6-22",
+      "title": "Assault in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-22"
+    },
+    {
+      "section": "13A-6-23",
+      "title": "Menacing",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-23"
+    },
+    {
+      "section": "13A-6-24",
+      "title": "Reckless Endangerment",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-24"
+    },
+    {
+      "section": "13A-6-41",
+      "title": "Unlawful Imprisonment in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-41"
+    },
+    {
+      "section": "13A-6-42",
+      "title": "Unlawful Imprisonment in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-42"
+    },
+    {
+      "section": "13A-6-43",
+      "title": "Kidnapping in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-43"
+    },
+    {
+      "section": "13A-6-44",
+      "title": "Kidnapping in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-44"
+    },
+    {
+      "section": "13A-6-45",
+      "title": "Interference with Custody",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-45"
+    },
+    {
+      "section": "13A-6-61",
+      "title": "Rape in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-61"
+    },
+    {
+      "section": "13A-6-62",
+      "title": "Rape in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-62"
+    },
+    {
+      "section": "13A-6-63",
+      "title": "Sodomy in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-63"
+    },
+    {
+      "section": "13A-6-64",
+      "title": "Sodomy in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-64"
+    },
+    {
+      "section": "13A-6-90",
+      "title": "Stalking in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-90"
+    },
+    {
+      "section": "13A-6-91",
+      "title": "Aggravated Stalking in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-91"
+    },
+    {
+      "section": "13A-6-130",
+      "title": "Domestic Violence in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-130"
+    },
+    {
+      "section": "13A-6-131",
+      "title": "Domestic Violence in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-131"
+    },
+    {
+      "section": "13A-6-132",
+      "title": "Domestic Violence in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-132"
+    },
+    {
+      "section": "13A-6-138",
+      "title": "Domestic Violence by Strangulation or Suffocation",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-6-138"
+    },
+    {
+      "section": "13A-7-5",
+      "title": "Burglary in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-5"
+    },
+    {
+      "section": "13A-7-6",
+      "title": "Burglary in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-6"
+    },
+    {
+      "section": "13A-7-7",
+      "title": "Burglary in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-7"
+    },
+    {
+      "section": "13A-7-2",
+      "title": "Criminal Trespass in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-2"
+    },
+    {
+      "section": "13A-8-3",
+      "title": "Theft of Property in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-3"
+    },
+    {
+      "section": "13A-8-4",
+      "title": "Theft of Property in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-4"
+    },
+    {
+      "section": "13A-8-4.1",
+      "title": "Theft of Property in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-4.1"
+    },
+    {
+      "section": "13A-8-5",
+      "title": "Theft of Property in the Fourth Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-5"
+    },
+    {
+      "section": "13A-8-11",
+      "title": "Unauthorized Use of Vehicle; Unlawful Breaking and Entering a Vehicle",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-11"
+    },
+    {
+      "section": "13A-8-41",
+      "title": "Robbery in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-41"
+    },
+    {
+      "section": "13A-8-42",
+      "title": "Robbery in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-42"
+    },
+    {
+      "section": "13A-8-43",
+      "title": "Robbery in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-8-43"
+    },
+    {
+      "section": "13A-7-41",
+      "title": "Arson in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-41"
+    },
+    {
+      "section": "13A-7-42",
+      "title": "Arson in the Second Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-42"
+    },
+    {
+      "section": "13A-7-21",
+      "title": "Criminal Mischief in the First Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-7-21"
+    },
+    {
+      "section": "13A-10-41",
+      "title": "Resisting Arrest",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-10-41"
+    },
+    {
+      "section": "13A-10-2",
+      "title": "Obstructing Governmental Operations",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-10-2"
+    },
+    {
+      "section": "13A-10-33",
+      "title": "Escape in the Third Degree",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-10-33"
+    },
+    {
+      "section": "13A-11-7",
+      "title": "Disorderly Conduct",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-11-7"
+    },
+    {
+      "section": "13A-11-8",
+      "title": "Harassment / Harassing Communications",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-11-8"
+    },
+    {
+      "section": "13A-11-72",
+      "title": "Certain Persons Forbidden to Possess Firearm",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-11-72"
+    },
+    {
+      "section": "13A-11-73",
+      "title": "Permitless / Concealed Pistol Provisions",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-11-73"
+    },
+    {
+      "section": "13A-12-211",
+      "title": "Unlawful Distribution of Controlled Substances",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-12-211"
+    },
+    {
+      "section": "13A-12-212",
+      "title": "Unlawful Possession of Controlled Substance",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-12-212"
+    },
+    {
+      "section": "13A-12-231",
+      "title": "Trafficking in Cannabis, Cocaine, and Other Controlled Substances",
+      "title_no": "13A",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=13A-12-231"
+    },
+    {
+      "section": "32-5A-191",
+      "title": "Driving Under the Influence",
+      "title_no": "32",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-191"
+    },
+    {
+      "section": "32-5-192",
+      "title": "Implied Consent; Chemical Testing",
+      "title_no": "32",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5-192"
+    },
+    {
+      "section": "32-5A-190",
+      "title": "Reckless Driving",
+      "title_no": "32",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-190"
+    },
+    {
+      "section": "32-5A-171",
+      "title": "Maximum Speed Limits",
+      "title_no": "32",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-171"
+    },
+    {
+      "section": "32-5A-193",
+      "title": "Homicide by Vehicle or Vessel",
+      "title_no": "32",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-193"
+    }
+  ]
+}
